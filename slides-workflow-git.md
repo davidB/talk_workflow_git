@@ -548,3 +548,9 @@ note:
   - using branch for experiment ?
   - multi-tech == language/ecosystem, framework (main, test fonctionnal,...),
   - commit for test/debug on deployed code
+
+---
+
+## Credits
+
+- images from https://nvie.com/posts/a-successful-git-branching-model/
