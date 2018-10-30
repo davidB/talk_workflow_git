@@ -1,4 +1,4 @@
-# Les flots gits
+# git workflows
 
 ## (examples)
 
@@ -180,7 +180,7 @@ vvv
 ### master + rebase
 
 - one branche
-- Feature Flags
+- [Feature Flags (fr)](https://www.youtube.com/watch?v=BkrY0yy43MU)
 - hotfix branch (exception)
 - no issue about branch history (rebase, merge master)
 
@@ -355,6 +355,8 @@ vvv
 
 ![x](images/gitmoji-log.png)
 
+vvv
+
 ### Example
 
 ```txt
@@ -516,35 +518,12 @@ $HOME/src
 │   ├── micro-reverse-proxy
 │   └── prez_workflow_git
 ├── bitbucket.org
-│   ├── c.bras
-│   │   └── xt-skills
 │   ├── davidB31
 │   │   ├── micro-reverse-proxy
 │   │   └── xt-gactions
-│   ├── francoismonniot
-│   │   └── dev
-│   ├── samihub
-│   │   ├── celerity
-│   │   ├── cloud_connector_challenge
-│   │   ├── machine-learning
-│   │   ├── marathon-jobs-local
-│   │   ├── marathon-jobs-omg
-│   │   ├── rogerce
-│   │   ├── rogerv2
-│   │   ├── sami
-│   │   ├── sami-akcc
-│   │   ├── sami-cloudconnector-samples.dev
-│   │   ├── sami-cloudconnector-sdk.dev
-│   │   ├── sami-config
-│   │   ├── stce-config
-│   │   ├── stce-config-prod
-│   │   ├── xt-cloudconnector-samples.dev
-│   │   └── xt-google-action
-│   └── ssic_sail
-│       ├── myskinid
-│       └── viv-wizard
-├── git.vandevlab.com
 │   └── ...
+│       ├── proj_1
+│       └── proj_2
 ├── github.com
 │   ├── 99XProblems
 │   │   └── 99-Scala-Problems
