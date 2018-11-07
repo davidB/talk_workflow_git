@@ -285,7 +285,7 @@ vvv
 
 ```sh
 git config --global user.name "John Doe"
-git config --global user.email j.doe@samsung.com
+git config --global user.email j.doe@sample.net
 # rebase by default on git pull
 git config --global --bool pull.rebase true
 
